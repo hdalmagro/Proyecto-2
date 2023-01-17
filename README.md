@@ -1,3 +1,4 @@
+
 # Informe Proyecto 2
 
 # 1. Objetivo
@@ -37,13 +38,19 @@ Verificamos su funcinamiento
 
 Con los interruptores en su posicion base (foco apagado)
 
+![WhatsApp Image 2023-01-17 at 08 29 33](https://user-images.githubusercontent.com/116781677/212911633-ef32091a-c915-46d6-949f-8379fcbbb179.jpg)
+
 Con uno de los interruptores accionados (foco encendido)
+
+![WhatsApp Image 2023-01-17 at 08 29 33](https://user-images.githubusercontent.com/116781677/212911656-bbbc313e-872c-4c15-980a-cd67cea7789d.jpg)
 
 Los dos interruptores con la misma posicion (Foco apagado)
 
+![WhatsApp Image 2023-01-17 at 08 29 33](https://user-images.githubusercontent.com/116781677/212911687-34513187-5b79-4323-ae3a-ab4ddbf0b280.jpg)
+
 # 4. Video
 
-
+https://drive.google.com/file/d/10XWL9Hyw0AnWq4irBmqgbRb7GBgEA8j3/view?usp=share_link
 
 # 5. Conclusiones
 
