@@ -1,6 +1,8 @@
 
 # Informe Proyecto 2
 
+![WhatsApp Image 2023-01-17 at 09 40 06](https://user-images.githubusercontent.com/116781677/212928222-be6b8c06-0d0d-45d4-8553-d2348e2ffa82.jpg)
+
 # 1. Objetivo
 
 Objetivo general.
